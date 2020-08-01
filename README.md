@@ -1,4 +1,4 @@
-## Details
+## Amazing Bakery
 
 In this project, I've built my own bakery shop landing page using flexbox.
 
